@@ -38,7 +38,7 @@ export const Services = () => {
         className="flex-1 self-center md:self-end flex flex-col md:flex-row items-center gap-4 text-center md:text-start"
       >
         <p className="max-w-[30ch] font-extralight text-xl text-gray-500 text-right">
-          I focus on helping your brand grow and move forward
+          We focus on helping your brand grow and move forward
         </p>
         <hr className="w-72 md:w-96 border-0 border-t border-gray-500" />
       </motion.article>

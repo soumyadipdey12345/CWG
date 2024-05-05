@@ -5,4 +5,17 @@
 html {
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
+  font-family: "century gothic" !important;
+
+}
+
+body{
+  font-family: "century gothic" !important;
+}
+
+* {
+  --font-sans: "century gothic" !important;
+}
+.main{
+  font-family: "Century Gothic" !important;
 }

@@ -8,6 +8,9 @@ export default {
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],
       },
+      // fontFamily:{
+      //   sans:["Century Gothic"]
+      // },
       backgroundImage: {
         "past-work-gradient": "linear-gradient(180deg, #111132, #0c0c1d)",
         "portfolio-gradient": "linear-gradient(180deg, #111132, #505064)",

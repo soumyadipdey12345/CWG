@@ -10,7 +10,7 @@ import {
 
 const HomePage = () => {
   return (
-    <main className="text-gray-600">
+    <main className="text-gray-600 main" style={{ fontFamily: 'Century Gothic' }}>
       <Cursor />
       <section
         id="home"

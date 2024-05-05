@@ -48,6 +48,7 @@ export const Hero = () => {
         <motion.h2
           variants={textVariants}
           className="text-2xl md:text-4xl text-purple-shade spacing tracking-widest uppercase"
+          style={{fontFamily:"century gothic"}}
         >
 Complete Web Graphics        </motion.h2>
         <motion.h1
